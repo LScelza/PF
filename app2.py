@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # URL de tu función en la nube
-cloud_function_url = "https://us-central1-silicon-carver-416314.cloudfunctions.net/Prueba"
+cloud_function_url = "https://us-central1-silicon-carver-416314.cloudfunctions.net/stremlit"
 
 # Definir los parámetros específicos para cada modelo
 modelo_params = {
